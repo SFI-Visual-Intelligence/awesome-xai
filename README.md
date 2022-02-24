@@ -28,10 +28,14 @@ For a longer introduction, Nirmal Sobha Kartha's article for The Gradient, [Expl
 
 ### Post-hoc explanations
 
+* [Alibi](https://github.com/SeldonIO/alibi)
+    * Python library for model inspection and interpretation with a scikit-learn-inspired interface
 * [marcotcr/lime](https://github.com/marcotcr/lime)
     * Python library implementing the [LIME (Local Interpretable Model Explanations) method](https://christophm.github.io/interpretable-ml-book/lime.html)
 * [slundberg/shap](https://github.com/slundberg/shap)
     * Python library implementing the [SHAP (SHapley Additive exPlanations) method](https://christophm.github.io/interpretable-ml-book/shap.html)
+* [marcotcr/anchor](https://github.com/marcotcr/anchor)
+    * Python library implementing [scoped rules/anchors](https://christophm.github.io/interpretable-ml-book/anchors.html) for the article [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf)
 
 ## Books
 
