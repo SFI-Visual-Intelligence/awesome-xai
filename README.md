@@ -17,8 +17,12 @@ For a longer introduction, Nirmal Sobha Kartha's article for The Gradient, [Expl
 
 ## Libraries and repositories
 
+* [pair-code/what-if-tool](https://github.com/pair-code/what-if-tool)
+    * Tool for exploring black-box classification/regression models - partial dependence plots and 
 * [EthicalML/xai](https://github.com/EthicalML/xai)
     * Python library with utilities for showing per-group statistical metrics, plotting feature importance, upsampling/downsampling to balance a dataset against specific attributes
+* [Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus)
+    * Toolkit for quantitative evaluation of explanation methods 
 
 ### Interpretable models 
 * [scikit-learn](https://scikit-learn.org/stable/index.html) 
@@ -50,3 +54,9 @@ For a longer introduction, Nirmal Sobha Kartha's article for The Gradient, [Expl
     * Lectures 3 through 7 discuss interpretable models and explainability methods. [Slides and recorded lectures](https://hci.stanford.edu/courses/cs335/2020/sp/lectures.html) available.
 
 ## Articles
+
+* [Explain Yourself - A Primer on ML Interpretability & Explainability (2021)](https://thegradient.pub/explain-yourself/) by Kartha
+* [Towards A Rigorous Science of Interpretable Machine Learning (2017)](https://arxiv.org/abs/1702.08608) by Doshi-Velez and Kim
+* ["Why Should I Trust You?": Explaining the Predictions of Any Classifier (2016)](https://arxiv.org/abs/1602.04938) by Ribeiro et al. 
+* [Visualizing and Understanding Convolutional Networks (2014)](https://arxiv.org/abs/1311.2901) by Zeiler and Fergus
+* [Sanity Checks for Saliency Maps (2018)](https://arxiv.org/abs/1810.03292) by Adebayo et al.
