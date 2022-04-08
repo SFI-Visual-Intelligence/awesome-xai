@@ -46,7 +46,7 @@ For a longer introduction, Nirmal Sobha Kartha's article for The Gradient, [Expl
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) (2022) by Christoph Molnar
     * Available freely online, available for purchase in PDF/ebook format on Leanpub and in print on lulu.com
 * [Interpretable AI](https://www.manning.com/books/interpretable-ai) by Ajay Thampi
-    * Part of Manning's MEAP series, publishes in April 2022
+    * Part of Manning's MEAP series, publishes in May 2022
 
 ## Courses / MOOCs
 
@@ -55,8 +55,16 @@ For a longer introduction, Nirmal Sobha Kartha's article for The Gradient, [Expl
 
 ## Articles
 
+
+
 * [Explain Yourself - A Primer on ML Interpretability & Explainability (2021)](https://thegradient.pub/explain-yourself/) by Kartha
+    * Summarizes the goals of interpretability/explainability methods, sets out the taxonomy mentioned in the introduction, discusses limitations and the future of explainable AI
 * [Towards A Rigorous Science of Interpretable Machine Learning (2017)](https://arxiv.org/abs/1702.08608) by Doshi-Velez and Kim
 * ["Why Should I Trust You?": Explaining the Predictions of Any Classifier (2016)](https://arxiv.org/abs/1602.04938) by Ribeiro et al. 
 * [Visualizing and Understanding Convolutional Networks (2014)](https://arxiv.org/abs/1311.2901) by Zeiler and Fergus
 * [Sanity Checks for Saliency Maps (2018)](https://arxiv.org/abs/1810.03292) by Adebayo et al.
+    * Argues that visualization-based explainability methods are vulnerable to confirmation bias 
+    * Proposes testing these methods on models with arbitrarily assigned weights or labels, to show that they reflect the model's actual behavior and are not just highlighting shapes
+* [Counterfactual Explanations Without Opening The Black Box: Automated Decisions and the GDPR (2017)](https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf) by Wachter, Mittelstadt and Russell
+    * Examines the legal grounding for "the right to explanation" in the GDPR as it is popularly interpreted
+    * Poses counterfactual explanation as an optimization problem
