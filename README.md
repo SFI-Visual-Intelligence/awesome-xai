@@ -68,3 +68,7 @@ For a longer introduction, Nirmal Sobha Kartha's article for The Gradient, [Expl
 * [Counterfactual Explanations Without Opening The Black Box: Automated Decisions and the GDPR (2017)](https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf) by Wachter, Mittelstadt and Russell
     * Examines the legal grounding for "the right to explanation" in the GDPR as it is popularly interpreted
     * Poses counterfactual explanation as an optimization problem
+
+## More recent articles
+
+[Poly-cam high resolution class activation map for convolutional neural networks (2022)](https://deepai.org/publication/poly-cam-high-resolution-class-activation-map-for-convolutional-neural-networks) by Englebert. Combine the activations of different layers, upsampling the last layers, to produce high resolution calss activation maps.
